@@ -1,0 +1,3 @@
+CustomProviderLogFilter=CustomProviderLogFilter
+RedisRateLimitFilter=RedisRateLimitFilter
+tps=com.alibaba.dubbo.rpc.filter.TpsLimitFilter
